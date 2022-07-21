@@ -1,7 +1,7 @@
 # DB-Browser-SQ LIT BECAUSE DATA IS LIT
 
 
-Basic Steps for SQL db browser, cleaning of data and parsing, creation of data tables, etc... 
+Basic Steps for SQL DB browser, cleaning of data and parsing, creation of data tables, etc... 
 
 - after creating your table, SQL is basically just that, Structured Query Langauge, it is incredible easy to use as well. 
 
