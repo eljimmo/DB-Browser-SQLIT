@@ -35,5 +35,5 @@ Execute (run)
 Remember to "write" like in vim for changes to be saved.
 
 
-Reember the Alamo & Power Query in Excel
+Remember Power Query in Excel
 
