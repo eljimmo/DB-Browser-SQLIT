@@ -39,3 +39,8 @@ Remember to "write" like in vim for changes to be saved.
 
 Remember Power Query in Excel
 
+######-------####
+
+-> 21 Revenue Limited (notice the syntax)
+
+Table.TransformColumnTypes(#"Promoted Headers",{{"Date", type date}, {" Revenue ", Currency.Type}, {"Freight Remit", type text}, {"QuickPay/Factoring", type text}, {"Brokerage", type text}, {"Load #", type text}, 
