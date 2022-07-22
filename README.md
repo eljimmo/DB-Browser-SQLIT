@@ -1,6 +1,7 @@
 # DB-Browser-SQ LIT BECAUSE DATA IS LIT
 
---- lots of ways to clean data, but generally you want to do it before extraction to DB to make it easier.
+--- lots of ways to clean data, but generally you want to do it before extraction to DB to make it easier. ----
+---- We can also use Python Scripts to clean & parse data for extraction. ------- 
 
 
 Basic Steps for SQL DB browser, cleaning of data and parsing, creation of data tables, etc... 
