@@ -47,3 +47,10 @@ Remember Power Query in Excel
 -> 21 Revenue Limited (notice the syntax)
 
 Table.TransformColumnTypes(#"Promoted Headers",{{"Date", type date}, {" Revenue ", Currency.Type}, {"Freight Remit", type text}, {"QuickPay/Factoring", type text}, {"Brokerage", type text}, {"Load #", type text}, 
+
+https://docs.python.org/3/library/sqlite3.html
+
+import sqlite3
+con = sqlite3.connect('example.db')
+
+;) 
