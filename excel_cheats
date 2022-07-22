@@ -14,3 +14,11 @@
 
 - select empty cells in Excel -
 +++Ctrl + G or F5 to display the Go To dialog box. --> Special button. ---> blanks --> F2 --> 
+
+
+---- Ampersand power ---
++++Select the cell where you want to put the data of two data columns.
+
+An example  =A2&" "&B2
+
+
