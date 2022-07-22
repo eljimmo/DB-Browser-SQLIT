@@ -1,0 +1,16 @@
+- not really cheats but formulas
+
+- Add Comma At End Of Cell/Text With Formula -
+
++++make a new column to the right of your column with numbers, make first row equal to =A1&","
+++copy downward to end of column
+
+
+
+- Add Quotes Around Numbers Or Text In Excel - FORMATTING CELLS != TEXT VALUES
++++  Select the data column, right click to context menu, --> Format Cells
+++ Format Cells dialog, --> Number tab, --> Custom from Category list, type --> "''"@"''" into the Type textbox
+
+
+- select empty cells in Excel -
++++Ctrl + G or F5 to display the Go To dialog box. --> Special button. ---> blanks --> F2 --> 
