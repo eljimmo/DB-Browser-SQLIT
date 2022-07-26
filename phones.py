@@ -41,15 +41,15 @@ c.execute("""CREATE TABLE IF NOT EXISTS phones (
 
 #text box labels 
 
-Column1_label = Label(root, text="phone class")
+Column1_label = Label(root, text="black")
 Column1_label.grid(row=1, column=0)
-Column2_label = Label(root, text="phone type")
+Column2_label = Label(root, text="orange")
 Column2_label.grid(row=2, column=0)
-Column3_label = Label(root, text="RFD")
+Column3_label = Label(root, text="yellow")
 Column3_label.grid(row=3, column=0)
-Column4_label = Label(root, text="Clear")
+Column4_label = Label(root, text="blue")
 Column4_label.grid(row=4, column=0)
-Column5_label = Label(root, text="Pink bagged")
+Column5_label = Label(root, text="red")
 Column5_label.grid(row=5, column=0)
 
 conn.commit()
